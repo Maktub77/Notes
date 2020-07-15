@@ -1,0 +1,1 @@
+RMI（Remote Method Invocation）：RMI提供了**客户辅助对象**（stub桩）和**服务辅助对象**（skeleton骨架），为客户辅助对象创建和服务对象相同的方法
